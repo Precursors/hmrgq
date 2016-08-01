@@ -1,0 +1,22 @@
+{
+  "name": "hmrgq",
+  "version": "0.0.1",
+  "description": "create a react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "crc": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Precursors/hmrgq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Precursors/hmrgq/issues"
+  },
+  "homepage": "https://github.com/Precursors/hmrgq#readme"
+}
