@@ -29,8 +29,7 @@ class ${component} extends Component {
   }
 }
 
-export default ${component}
-  `
+export default ${component}`
   let indexScss = ``
   fs.mkdirSync(componentPath)
   fs.writeFileSync(path.join(componentPath, 'index.js'), indexJs)
